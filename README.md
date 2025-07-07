@@ -1,16 +1,46 @@
 ## Hi there 👋
+## ¡Hola! 👋 Soy Yuliet Chavarria
 
 <!--
-**yuchag94/yuchag94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**yuchag94/yuchag94** es un ✨ _repositorio especial_ ✨ porque su `README.md` aparece en tu perfil de GitHub.
 -->
+
+💻 **DevOps | Cloud Engineer**  
+Apasionada por crear, optimizar y automatizar entornos de infraestructura para aplicaciones modernas, con enfoque en eficiencia, seguridad y sostenibilidad tecnológica.
+
+---
+
+### 🛠 Actualmente trabajando en...
+- Automatización de despliegues con Azure DevOps
+- Infraestructura como código (Terraform, Docker)
+- Integración y despliegue continuo (CI/CD)
+- Diseño y documentación de soluciones DevOps para aplicaciones empresariales
+
+### 🌱 Actualmente aprendiendo...
+- Profundización en arquitectura de soluciones en AWS
+- Optimización de pipelines y seguridad en despliegues
+- Prácticas avanzadas de observabilidad
+
+### 🤝 Buscando colaborar en...
+- Proyectos de infraestructura automatizada
+- Plataformas que conecten tecnología y comunidad
+- Iniciativas DevOps enfocadas en impacto social
+
+### ❓ Pídeme ayuda en...
+- Configuración de pipelines en Azure DevOps
+- Contenedores con Docker y Docker Compose
+- Documentación técnica y buenas prácticas DevOps
+
+### 📬 ¿Cómo contactarme?
+- 📧 [Correo profesional disponible en solicitudes]
+- 💼 [LinkedIn o portafolio si deseas agregarlo]
+
+### 😄 Pronombres:
+- Ella / She
+
+### ⚡ Dato curioso:
+- Me encanta conectar con la naturaleza subiendo montañas 🏞️, descubrir nuevos restaurantes 🍜 y explorar lugares desconocidos que sorprendan con su historia, paisaje o energía 💫.
+
+---
+
+> _“La automatización bien hecha es arte: invisible, elegante y funcional.”_
