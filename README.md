@@ -32,8 +32,8 @@ Apasionada por crear, optimizar y automatizar entornos de infraestructura para a
 - Documentación técnica y buenas prácticas DevOps
 
 ### 📬 ¿Cómo contactarme?
-- 📧 [Correo profesional disponible en solicitudes]
-- 💼 [LinkedIn o portafolio si deseas agregarlo]
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuchag/ )
+
 
 ### 😄 Pronombres:
 - Ella / She
